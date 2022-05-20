@@ -41,4 +41,3 @@ screen.exitonclick()
 # goto(): - The turtle will move at the position of x and y on graph,
 # penup(): - PenUp means to hide th pen
 # all_turtle: - appends all the new_turtle into a list.
-#
